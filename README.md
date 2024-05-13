@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I love creating user-centric web tech products, focusing on intuitive UX, performance, and clean code practices. As a front-end focused full stack engineer, I enjoy creating real-time, complex, and accessible web applications using modern JavaScript technologies.</h3>
+<h3>I love creating user-centric web tech products, focusing on intuitive UX, performance, and clean code practices. As a front-end focused full stack engineer, I enjoy creating real-time, complex, and accessible web applications using modern JavaScript technologies.</h3>
 
 - 🔭 I’m currently working on [Clink](https://www.clinktags.com/)
 
